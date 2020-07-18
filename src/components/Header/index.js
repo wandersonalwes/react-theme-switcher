@@ -8,7 +8,7 @@ export default function Header({ toggleTheme }) {
   const theme = useTheme();
   return (
     <Container>
-      <h1>React Theme</h1>
+      <h1>React Theme Switcher</h1>
 
       <Switch
         checked={theme.title === "dark"}
