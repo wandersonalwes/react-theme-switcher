@@ -1,11 +1,11 @@
 import React from "react";
-import { useTheme } from "../../styles/themes/context";
+import { useTheme } from "../../hooks/useTheme";
 import Switch from "react-switch";
 
 import { Container, IconMoon, IconSun } from "./styles";
 
-export default function Header({ toggleTheme }) {
-  const theme = useTheme();
+export default function Header() {
+  const { theme, toggleTheme } = useTheme();
   return (
     <Container>
       <h1>React Theme Switcher</h1>
@@ -23,3 +23,4 @@ export default function Header({ toggleTheme }) {
     </Container>
   );
 }
+
