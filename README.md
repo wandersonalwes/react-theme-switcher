@@ -8,3 +8,6 @@
 [![Stars](https://img.shields.io/github/stars/wandersonalwes/react-theme-switcher?color=D54F44&style=flat-square)](https://github.com/wandersonalwes/react-theme-switcher/stargazers)
 [![Forks](https://img.shields.io/github/forks/wandersonalwes/react-theme-switcher?color=%23D54F44&style=flat-square)](https://github.com/wandersonalwes/react-theme-switcher/network/members)
 [![Contributors](https://img.shields.io/github/contributors/wandersonalwes/react-theme-switcher?color=D54F44&style=flat-square)](https://github.com/wandersonalwes/react-theme-switcher/graphs/contributors)
+
+
+![screenshot](https://github.com/wandersonalwes/react-theme-switcher/blob/master/.github/screenshot.png)
